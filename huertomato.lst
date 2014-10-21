@@ -1,0 +1,55 @@
+eeschema (2012-apr-16-27)-stable  >> Creation date: vie 14 mar 2014 21:12:23 CET
+
+#Cmp ( order = Reference )
+| 2N2222     NPN         
+| COM3       CONN_4      
+| D1         1N4004      
+| LED1       LED_RCGB    
+| P1         RJ45_unshielded
+| P2         RJ45_UNSHIELDED
+| P3         RJ45_UNSHIELDED
+| P4         CONN_2      
+| PHOTOR1    PHOTOR      
+| R1         82          
+| R2         180         
+| R3         82          
+| R4         10k         
+| R5         10k         
+| R6         4.7k        
+| R7         220         
+| R8         1K          
+| Relay1     G5LA-1      
+| RTC1       CONN_7      
+| SHIELD1    ARDUINO_MEGA_SHIELD
+| SP1        SPEAKER     
+| U1         DS18B20     
+| U2         DHT11       
+#End Cmp
+
+#Cmp ( order = Value )
+| 10k          R4        
+| 10k          R5        
+| 180          R2        
+| 1K           R8        
+| 1N4004       D1        
+| 220          R7        
+| 4.7k         R6        
+| 82           R1        
+| 82           R3        
+| ARDUINO_MEGA_SHIELD SHIELD1   
+| CONN_2       P4        
+| CONN_4       COM3      
+| CONN_7       RTC1      
+| DHT11        U2        
+| DS18B20      U1        
+| G5LA-1       Relay1    
+| LED_RCGB     LED1      
+| NPN          2N2222    
+| PHOTOR       PHOTOR1   
+| RJ45_unshielded P1        
+| RJ45_UNSHIELDED P2        
+| RJ45_UNSHIELDED P3        
+| SPEAKER      SP1       
+#End Cmp
+
+#End List

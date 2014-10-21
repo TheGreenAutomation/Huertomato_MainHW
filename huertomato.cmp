@@ -1,0 +1,164 @@
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = jue 13 mar 2014 17:35:16 CET
+
+BeginCmp
+TimeStamp = /53188C40;
+Reference = 2N2222;
+ValeurCmp = NPN;
+IdModule  = TO92real;
+EndCmp
+
+BeginCmp
+TimeStamp = /53179F52;
+Reference = COM3;
+ValeurCmp = CONN_4;
+IdModule  = COM3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53188C1D;
+Reference = D1;
+ValeurCmp = 1N4004;
+IdModule  = D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /530E16FB;
+Reference = LED1;
+ValeurCmp = LED_RCGB;
+IdModule  = LED_RGB;
+EndCmp
+
+BeginCmp
+TimeStamp = /53189FB6;
+Reference = P1;
+ValeurCmp = RJ45_unshielded;
+IdModule  = RJ45;
+EndCmp
+
+BeginCmp
+TimeStamp = /53189FC4;
+Reference = P2;
+ValeurCmp = RJ45_UNSHIELDED;
+IdModule  = RJ45;
+EndCmp
+
+BeginCmp
+TimeStamp = /53189FC1;
+Reference = P3;
+ValeurCmp = RJ45_UNSHIELDED;
+IdModule  = RJ45;
+EndCmp
+
+BeginCmp
+TimeStamp = /531F2B0C;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = bornier2RS;
+EndCmp
+
+BeginCmp
+TimeStamp = /530E1A97;
+Reference = PHOTOR1;
+ValeurCmp = PHOTOR;
+IdModule  = PhotoR;
+EndCmp
+
+BeginCmp
+TimeStamp = /530696D4;
+Reference = R1;
+ValeurCmp = 82;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /530696CA;
+Reference = R2;
+ValeurCmp = 180;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /530696DC;
+Reference = R3;
+ValeurCmp = 82;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53069C5B;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53069A6E;
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5306992D;
+Reference = R6;
+ValeurCmp = 4.7k;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /530A4752;
+Reference = R7;
+ValeurCmp = 220;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /531891AD;
+Reference = R8;
+ValeurCmp = 1K;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53188C2C;
+Reference = Relay1;
+ValeurCmp = G5LA-1;
+IdModule  = RelayG5LA-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5307A2AB;
+Reference = RTC1;
+ValeurCmp = CONN_7;
+IdModule  = RTC;
+EndCmp
+
+BeginCmp
+TimeStamp = /530E171E;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_MEGA_SHIELD;
+IdModule  = ARDUINO_MEGA_SHIELD_040pins;
+EndCmp
+
+BeginCmp
+TimeStamp = /530E16E6;
+Reference = SP1;
+ValeurCmp = SPEAKER;
+IdModule  = BUZZ_ali;
+EndCmp
+
+BeginCmp
+TimeStamp = /530E1888;
+Reference = U1;
+ValeurCmp = DS18B20;
+IdModule  = TO92real;
+EndCmp
+
+BeginCmp
+TimeStamp = /530E1742;
+Reference = U2;
+ValeurCmp = DHT11;
+IdModule  = DHT11;
+EndCmp
+
+EndListe
