@@ -1,6 +1,6 @@
 These are KiCad schematics and PCB design files of the Arduino based Huertomato hydroponics controller. 
 
-The main board has these components:
+The main board has thses components:
 
 * Temperature DS18B20
 * Humidity DHT11
