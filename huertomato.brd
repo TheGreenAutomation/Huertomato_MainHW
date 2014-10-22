@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 2 date vie 03 oct 2014 20:35:07 CEST
+PCBNEW-BOARD Version 2 date mié 22 oct 2014 01:52:24 CEST
 
 # Created by Pcbnew(2013-jul-07)-stable
 
@@ -7,7 +7,6 @@ encoding utf-8
 Units mm
 LayerCount 2
 EnabledLayers 11F08001
-VisibleLayers 11F08000
 Links 68
 NoConn 0
 Di 83.732794 46.101 241.71148 150.7236
@@ -21,12 +20,12 @@ $EndGENERAL
 
 $SHEETDESCR
 Sheet A4 11693 8268
-Title "Huertomato Main Shield"
-Date "3 oct 2014"
-Rev "1.0"
+Title "Huertomato Main Shield v1.1"
+Date "21 oct 2014"
+Rev "1.1"
 Comp "www.TheGreenAutomation.com"
-Comment1 "CC 4.0 BY-NC-SA"
-Comment2 "Author: Juan Luis Pérez Díez"
+Comment1 "CC 4.0 BY-SA"
+Comment2 "The Green Automation"
 Comment3 ""
 Comment4 ""
 $EndSHEETDESCR
@@ -62,7 +61,7 @@ Pad2MaskClearance 0.254
 SolderMaskMinWidth 0
 AuxiliaryAxisOrg 0 0
 VisibleElements FFFFFFBF
-PcbPlotParams (pcbplotparams (layerselection 284196865) (usegerberextensions true) (excludeedgelayer true) (linewidth 0.150000) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 0) (psnegative false) (psa4output false) (plotreference false) (plotvalue false) (plotothertext false) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 1) (scaleselection 1) (outputdirectory gerber/))
+PcbPlotParams (pcbplotparams (layerselection 284196865) (usegerberextensions true) (excludeedgelayer true) (linewidth 0.150000) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 0) (psnegative false) (psa4output false) (plotreference false) (plotvalue false) (plotothertext false) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 0) (scaleselection 1) (outputdirectory gerber/))
 $EndSETUP
 
 $EQUIPOT
