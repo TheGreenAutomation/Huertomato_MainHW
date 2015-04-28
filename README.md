@@ -20,4 +20,4 @@ These files have been tested and work with main [Huertomato code.](https://githu
 
 ![alt tag](https://raw.githubusercontent.com/TheGreenAutomation/Huertomato_MainHW/master/mainPCB.png)
 
-For more info visit www.thegreenautomation.com
+For more info visit [www.thegreenautomation.com](http://thegreenautomation.com)
